@@ -61,7 +61,7 @@
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 affiliationjs.s3.amazonaws.com
 0.0.0.0 advertising-api-eu.amazon.com
-0.0.0.0 freshmarketer.com/
+0.0.0.0 freshmarketer.com
 0.0.0.0 api.bugsnag.com
 0.0.0.0 app.bugsnag.com
 0.0.0.0 browser.sentry-cdn.com
